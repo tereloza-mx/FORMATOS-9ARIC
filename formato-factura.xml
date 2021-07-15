@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<facturaElectronica xmlns="http://dtefacil.cl/1.2">
+
+<actividadEconomica>
+Código de actividad económica de la factura
+</actividadEconomica>
+
+<receptor>
+Datos de receptor de factura:
+Rut, Razón Social, Dirección, etc.
+</receptor>
+
+<detalles>
+Detalle de los productos o items contenidos.
+</detalles>
+
+</facturaElectronica>
+
